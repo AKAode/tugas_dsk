@@ -1,2 +1,2 @@
-DAWSON JEREMIAH KOENTADI
+Halo, saya sedang menggunakan git untuk menyimpan repository proyek saya (Dawson)
 Di line ini saya menambahkan update (Joy)
